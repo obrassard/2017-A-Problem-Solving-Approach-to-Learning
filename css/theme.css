@@ -44,9 +44,9 @@ hr.small {
   border-color: white;
 }
 
-.btn{
+/*.btn{
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
+}*/
 
 .btn-styled{
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -162,4 +162,17 @@ footer .copyright {
 
 .shadow{
   text-shadow: 2px 2px 8px black;
+}
+
+@media (max-width: 768px) {
+
+  .intro-header .site-heading h1,
+  .intro-header .page-heading h1 {
+    margin-top: 0;
+    font-size: 35px;
+  }
+
+  .intro-header{
+    margin-bottom: 20px;
+  }
 }
