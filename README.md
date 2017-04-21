@@ -1,2 +1,3 @@
-# 2017-A-Problem-Solving-Approach-to-Learning
-2017 final projects of the group 1030, Cégep Édouard-Montpetit.
+# A Problem-Solving Approach to Learning
+### Website presenting our final projects.<br> 
+*English 604 - Winter 2017 - Cégep Édouard-Montpetit*
